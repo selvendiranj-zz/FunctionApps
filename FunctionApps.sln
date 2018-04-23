@@ -3,7 +3,43 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.27428.2037
 MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionApp1", "FunctionApp1\FunctionApp1.csproj", "{04C434C4-A649-4A71-A1BA-D6D50CF024B7}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FunctionApp2", "FunctionApp2\FunctionApp2.csproj", "{321DF765-F6EA-42CA-8FF4-8746C739B07B}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "identityadfsfunc", "identityadfsfunc\identityadfsfunc.csproj", "{750954F1-ACA8-40E5-9AE7-DB7AFE2BFEED}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "magicalcloudfunc", "magicalcloudfunc\magicalcloudfunc.csproj", "{B8335E62-6020-4A6D-BAC3-6D5A2B69989B}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Solution Items", "Solution Items", "{4A49BDD6-CA03-4BC5-A55C-544EF1D7F68E}"
+	ProjectSection(SolutionItems) = preProject
+		.gitattributes = .gitattributes
+		.gitignore = .gitignore
+	EndProjectSection
+EndProject
 Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{04C434C4-A649-4A71-A1BA-D6D50CF024B7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{04C434C4-A649-4A71-A1BA-D6D50CF024B7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{04C434C4-A649-4A71-A1BA-D6D50CF024B7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{04C434C4-A649-4A71-A1BA-D6D50CF024B7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{321DF765-F6EA-42CA-8FF4-8746C739B07B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{321DF765-F6EA-42CA-8FF4-8746C739B07B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{321DF765-F6EA-42CA-8FF4-8746C739B07B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{321DF765-F6EA-42CA-8FF4-8746C739B07B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{750954F1-ACA8-40E5-9AE7-DB7AFE2BFEED}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{750954F1-ACA8-40E5-9AE7-DB7AFE2BFEED}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{750954F1-ACA8-40E5-9AE7-DB7AFE2BFEED}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{750954F1-ACA8-40E5-9AE7-DB7AFE2BFEED}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B8335E62-6020-4A6D-BAC3-6D5A2B69989B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B8335E62-6020-4A6D-BAC3-6D5A2B69989B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B8335E62-6020-4A6D-BAC3-6D5A2B69989B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B8335E62-6020-4A6D-BAC3-6D5A2B69989B}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection

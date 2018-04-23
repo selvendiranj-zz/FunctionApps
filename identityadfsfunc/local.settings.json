@@ -1,0 +1,21 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=functionstorage55ac;AccountKey=Mtq8XtlYrao2WL607jo1kNsBhLSbZHaksjdhfoiuqwerfs8UMG/n35Ouomm2KlpLSXP6PUoBjYumGRUeJ7+bSl3yBCLJ6Kyw6c0nw==",
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=functionstorage55ac;AccountKey=Mtq8XtlYrao2WL607jo1kNsBhLSbZHakljshdoiquws8UMG/n35Ouomm2KlpLSXP6PUoBjYumGRUeJ7+bSl3yBCLJ6Kyw6c0nw==",
+        "FUNCTIONS_EXTENSION_VERSION": "~1",
+        "REMOTEDEBUGGINGVERSION": "11.0.611103.400",
+        "ScmType": "None",
+        "SP_PASSWORD": "64Dlxp8kwNvgDucBFrJaklal;jksdf;hjsjdhfd/40vIL+Pu2GN7WXJ3GPDM=",
+        "SP_USERNAME": "ab51419fd3a5-9f3a7e1b-4d68-8099-4490",
+        "TENANTID": "5d6e1355sdc0c9-576d-4ac0-64e3esd32a-8ba7",
+        "WEBSITE_AUTH_AUTO_AAD": "False",
+        "WEBSITE_AUTH_ENABLED": "False",
+        "WEBSITE_AUTH_LOGOUT_PATH": "/.auth/logout",
+        "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=functionstorage55ac;AccountKey=Mtq8XtlYrao2WLalakljsdhfklajsehi9pquwehf607jo1kNsBhLSbZHs8UMG/n35Ouomm2KlpLSXP6PUoBjYumGRUeJ7+bSl3yBCLJ6Kyw6c0nw==",
+        "WEBSITE_CONTENTSHARE": "identityadfsfunc8d5e",
+        "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+        "WEBSITE_SITE_NAME": "identityadfsfunc",
+        "WEBSITE_SLOT_NAME": "Production"
+    }
+}

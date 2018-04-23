@@ -1,0 +1,16 @@
+{
+    "IsEncrypted": false,
+    "Values": {
+        "APPINSIGHTS_INSTRUMENTATIONKEY": "6ef25d37-b011-8f5d-494a--64884c681e52",
+        "AzureWebJobsDashboard": "DefaultEndpointsProtocol=https;AccountName=examplestorage93ac;AccountKey=w1nSD5zg5v+sSlngMo9Ist3ioquwekljfhlsxT+Cv5IfI7C+4vF1ITk1luGS3BIPNOSmGgwUooIGrThT9/EPSUNGHsGXYefog==",
+        "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;AccountName=examplestorage93ac;AccountKey=w1nSD5zg5v+sSlngMo9Ist3lsxT+Cv5Im,jashofuiyqwebcfI7C+4vF1ITk1luGS3BIPNOSmGgwUooIGrThT9/EPSUNGHsGXYefog==",
+        "FUNCTIONS_EXTENSION_VERSION": "~1",
+        "ScmType": "None",
+        "WEBSITE_AUTH_ENABLED": "False",
+        "WEBSITE_CONTENTAZUREFILECONNECTIONSTRING": "DefaultEndpointsProtocol=https;AccountName=examplestorage93ac;AccountKey=w1nSDakljshdfiouqw5zg5v+sSlngMo9Ist3lsxT+Cv5IfI7C+4vF1ITk1luGS3BIPNOSmGgwUooIGrThT9/EPSUNGHsGXYefog==",
+        "WEBSITE_CONTENTSHARE": "magicalcloudfunc-31e7d552",
+        "WEBSITE_NODE_DEFAULT_VERSION": "6.5.0",
+        "WEBSITE_SITE_NAME": "magicalcloudfunc",
+        "WEBSITE_SLOT_NAME": "Production"
+    }
+}
